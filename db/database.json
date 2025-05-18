@@ -1,0 +1,52 @@
+{
+    "phoneNo": "8746944770",
+    "adds": [
+        {
+            "offer": "20% off",
+            "title": "Aluminium Profiles",
+            "image": "images/custom/banner-preview-1.png"
+        },
+        {
+            "offer": "15% off",
+            "title": "Mcmaster Carr",
+            "image": "images/custom/banner-preview-2.png"
+        }
+    ],
+    "newlyArrived": [
+        {
+            "title": "Amber Jar",
+            "description": "Honey best nectar you wish to get",
+            "image": "images/product-thumb-11.jpg"
+        },
+        {
+            "title": "Amber Jar",
+            "description": "Honey best nectar you wish to get",
+            "image": "images/product-thumb-12.jpg"
+        },
+        {
+            "title": "Amber Jar",
+            "description": "Honey best nectar you wish to get",
+            "image": "images/product-thumb-13.jpg"
+        },
+        {
+            "title": "Amber Jar",
+            "description": "Honey best nectar you wish to get",
+            "image": "images/product-thumb-14.jpg"
+        },
+        {
+            "title": "Amber Jar",
+            "description": "Honey best nectar you wish to get",
+            "image": "images/product-thumb-11.jpg"
+        },
+        {
+            "title": "Amber Jar",
+            "description": "Honey best nectar you wish to get",
+            "image": "images/product-thumb-12.jpg"
+        }
+    ],
+    "products": [
+        {
+            "category": "Conveyor"
+        }
+    ]
+}
